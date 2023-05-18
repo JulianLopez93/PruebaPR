@@ -22,7 +22,7 @@ function sumarNumeros(req, res) {
   }
 }
 
-function restarNumeros(req, res) {
+function restaNumeros(req, res) {
   const { numero1, numero2 } = req.query; // obtenemos los números de la query string
   
   // comprobamos si los parámetros son números
