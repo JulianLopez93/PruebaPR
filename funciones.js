@@ -33,3 +33,6 @@ function restarNumeros(req, res) {
     res.send(`El resultado de la resta es: ${resultado}`);
   }
 }
+
+//Se va a agregar la funcion dividir aquí
+
